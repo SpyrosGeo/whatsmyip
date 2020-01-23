@@ -1,4 +1,4 @@
-# h1 WhatsmyIP 8-)
+#  WhatsmyIP 
 ---
 ## Why?
 I know there are way easier ways to find my public ip 
