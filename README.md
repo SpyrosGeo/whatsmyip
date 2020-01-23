@@ -15,7 +15,7 @@ To get dependencies
 npm install 
 
 ```
-Linking the project to God
+Linking the project 
 
 ```
 npm link or sudo npm link
