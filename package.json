@@ -4,7 +4,7 @@
   "description": "a simple cli tool to check my public IP",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "chalk": "^3.0.0",
     "cors": "^2.8.5"
   },
